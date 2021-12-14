@@ -29,7 +29,7 @@
 // if (usercity===iscity){
 //     console.log("Ye your Right")
 //     score++
-//     console.log("Score is ",score)
+//     console.log("Score is the ",score)
 // }else{
 //     console.log("YOUR WRONG")
 //     score--
